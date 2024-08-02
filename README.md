@@ -90,5 +90,5 @@ Hal-hal yang bisa dilakukan untuk meng-*improve* harga sewa unit apartemen di *D
 1. Cek requirements.txt, jika belum ada maka anda harus menginstall terlebih dahulu.
     - Contoh: Jika anda belum mempunyai library scikit learn, maka caranya adalah: buka command prompt, lalu ketik "python -m venv sklearn-env", lalu "sklearn-env\Scripts\activate", dan "pip install -U scikit-learn".
 2. Jika library sudah terinstall, download "apps.py" dan "RF_Model_Daegu_Apartment"
-3. Jika sudah didownload, maka buka command prompt, ketik "cd<spasi>path kedua file yang sudah kalian download". Setelah itu, ketik "streamlit run apps.py"
+3. Jika sudah didownload, maka buka command prompt, ketik "cd path kedua file yang sudah kalian download". Setelah itu, ketik "streamlit run apps.py"
 4. Streamlit sudah bisa anda deploy!
